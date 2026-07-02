@@ -1,0 +1,37 @@
+{
+    "actorSpecification": 1,
+    "name": "appsumo-deal-monitor",
+    "title": "AppSumo Deal Monitor",
+    "description": "Track SaaS deals, lifetime deals (LTDs), pricing tiers, ratings (Tacos), and reviews from AppSumo.com.",
+    "version": "1.0",
+    "input": "./input_schema.json",
+    "dockerfile": "./Dockerfile",
+    "minMemoryMbytes": 256,
+    "maxMemoryMbytes": 1024,
+    "pricingModel": "PAY_PER_EVENT",
+    "pricingEvents": [
+        {
+            "eventName": "apify-actor-start",
+            "pricePerEvent": 0.05,
+            "description": "Base fee for starting the crawler"
+        },
+        {
+            "eventName": "deal-extracted",
+            "pricePerEvent": 0.001,
+            "description": "Charged per deal successfully extracted ($1 per 1k)"
+        }
+    ],
+    "isPublic": true,
+    "seoTitle": "AppSumo Deal Monitor | Data Extraction API",
+    "seoDescription": "Track SaaS deals, lifetime deals (LTDs), pricing tiers, ratings, and reviews from AppSumo.com.",
+    "categories": [
+        "BUSINESS",
+        "E_COMMERCE",
+        "DATA_EXTRACTION"
+    ],
+    "defaultRunOptions": {
+        "build": "latest",
+        "timeoutSecs": 1800,
+        "memoryMbytes": 256
+    }
+}

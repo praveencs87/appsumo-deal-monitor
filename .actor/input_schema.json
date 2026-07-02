@@ -1,0 +1,23 @@
+{
+    "title": "AppSumo Deal Monitor Input",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "startUrls": {
+            "title": "Start URLs",
+            "type": "array",
+            "description": "List of AppSumo URLs (e.g. /software/ or specific collections) to start crawling from.",
+            "editor": "requestListSources",
+            "prefill": [
+                { "url": "https://appsumo.com/software/" }
+            ]
+        },
+        "maxItems": {
+            "title": "Maximum deals",
+            "type": "integer",
+            "description": "Limit the maximum number of deals to scrape.",
+            "minimum": 1
+        }
+    },
+    "required": ["startUrls"]
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tsMFMmjgf3sCWsf",
+	"json": "{\"id\":\"tsMFMmjgf3sCWsf\",\"url\":\"https://appsumo.com/products/snow-seo/\",\"loadedUrl\":\"https://appsumo.com/products/snow-seo/\",\"uniqueKey\":\"https://appsumo.com/products/snow-seo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T04:34:47.363Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://appsumo.com/products/snow-seo",
+	"url": "https://appsumo.com/products/snow-seo/"
+}

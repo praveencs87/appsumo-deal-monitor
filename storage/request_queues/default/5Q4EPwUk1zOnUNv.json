@@ -1,0 +1,9 @@
+{
+	"id": "5Q4EPwUk1zOnUNv",
+	"json": "{\"id\":\"5Q4EPwUk1zOnUNv\",\"url\":\"https://appsumo.com/software/development-it\",\"loadedUrl\":\"https://appsumo.com/software/development-it/\",\"uniqueKey\":\"https://appsumo.com/software/development-it\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T04:34:46.860Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://appsumo.com/software/development-it",
+	"url": "https://appsumo.com/software/development-it"
+}

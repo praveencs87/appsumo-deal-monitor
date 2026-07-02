@@ -1,0 +1,1056 @@
+{
+  "usableSessionsCount": 15,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_Noy2hiQlGF",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:43.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:44.171Z",
+            "lastAccessed": "2026-07-02T04:34:44.171Z"
+          },
+          {
+            "key": "sid",
+            "value": "db4jq16rh844vp78r0ympule0uosp8gk",
+            "expires": "2027-07-02T04:34:43.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:44.171Z",
+            "lastAccessed": "2026-07-02T04:34:44.171Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:43.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:44.171Z",
+            "lastAccessed": "2026-07-02T04:34:44.171Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "BYmi1dmtqfxwYoc4Hs9k6SGQQlAKgDwJTZ5g7vzISE0-1782966883.6996765-1.0.1.1-n71N8XCYfPM3PCiDm47w1psiCEDCClkzHko052yufzaLbFk3BXoAPbzECBLR4qySmPa6azZjb076ulMWq5X3MzeyNdusLtp5.rFrGPk5CB7HN6gTY4eItRsDZivwLr6D",
+            "expires": "2026-07-02T05:04:43.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:44.171Z",
+            "lastAccessed": "2026-07-02T04:34:44.171Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:43.427Z",
+      "createdAt": "2026-07-02T04:34:43.427Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_0vTr6fjp9H",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.375Z",
+            "lastAccessed": "2026-07-02T04:34:47.375Z"
+          },
+          {
+            "key": "sid",
+            "value": "60zncxvk0c1qejky46dycyofqg0bhjzc",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.375Z",
+            "lastAccessed": "2026-07-02T04:34:47.375Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.375Z",
+            "lastAccessed": "2026-07-02T04:34:47.375Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "0.sZ0dECVI0z7MfHVc83A7m2urx5k7nAWN1Re9h73Mk-1782966886.2071972-1.0.1.1-yNbDZzoEjdAfhETItfEnGQ69l04KCkvP0If6LdPdomFhMDoxpS3qAC4wS99ulC4phtaLrpPlULp9mOtwiREKADlkxJWL0vBtPVI3QTQumZM0w2aw2D09YYxZ7QcdZ599",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.375Z",
+            "lastAccessed": "2026-07-02T04:34:47.375Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.220Z",
+      "createdAt": "2026-07-02T04:34:46.220Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_zixEPe3vjL",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.923Z",
+            "lastAccessed": "2026-07-02T04:34:47.923Z"
+          },
+          {
+            "key": "sid",
+            "value": "enakyl5ribrj4d2d3q5xu9lexe6pvm0b",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.923Z",
+            "lastAccessed": "2026-07-02T04:34:47.923Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:47.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.923Z",
+            "lastAccessed": "2026-07-02T04:34:47.923Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "dkORP.kKOUsdlCzlngMvuceZg_n7HQ8P28ZfhDsng_4-1782966886.2798293-1.0.1.1-rjxDLnjpEpQAP1fhLnfCneLx1n6a3OuXjrfhd9fn1g.9aoxY_D9jb99FoypIvNrVxVuFyynXz9Ot1lqQ1gxnfgIBwlWuoODjdFvRxOzRAuDYeKe86k2GVRLO2G1QT_3l",
+            "expires": "2026-07-02T05:04:47.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.923Z",
+            "lastAccessed": "2026-07-02T04:34:47.923Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.225Z",
+      "createdAt": "2026-07-02T04:34:46.225Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_9bAHcnRAmC",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "4vUQWbW.KupACPWY4a56ChrTb6Smo6t05RrEFjYJhNw-1782966886.2124002-1.0.1.1-AKJoGO3Nhd7gOJTxXbXZTp_VF36r_4X95t3Y4t1C4JBQp0iq5DMVj80L1327WVKyRk3ZfWTnVdc7Q94Ce1TScOEetbCwOSsAIjZcopbyrUyFF22v.kMzzIspcLqKwNTK",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.502Z",
+            "lastAccessed": "2026-07-02T04:34:46.502Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.227Z",
+            "lastAccessed": "2026-07-02T04:34:47.227Z"
+          },
+          {
+            "key": "sid",
+            "value": "rugsueskq4rwvisxqj733n6uja8610ht",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.227Z",
+            "lastAccessed": "2026-07-02T04:34:47.227Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.227Z",
+            "lastAccessed": "2026-07-02T04:34:47.227Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.227Z",
+      "createdAt": "2026-07-02T04:34:46.227Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_5mdA0CNWkp",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "orXrEc6B9bGazcxe3x0_YstJrj422lKSvSNgDqKfB_s-1782966886.2144077-1.0.1.1-8KnTjzgTUx9shvXmAyLQjvJws77Iny1THDepCV4qO0QnDFKhtD.fcQ5DMRXP2T40H.PwSFlqFNH93RaftaXHV5kK7QKdIcmO8ie3jQocUH_xd708Z8wmcd_wnRdauWE2",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.489Z",
+            "lastAccessed": "2026-07-02T04:34:46.489Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.894Z",
+            "lastAccessed": "2026-07-02T04:34:46.894Z"
+          },
+          {
+            "key": "sid",
+            "value": "hayxeokg1zlnikimpo1d1uzwq6l5eirj",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.894Z",
+            "lastAccessed": "2026-07-02T04:34:46.894Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.894Z",
+            "lastAccessed": "2026-07-02T04:34:46.894Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.230Z",
+      "createdAt": "2026-07-02T04:34:46.230Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_JOcPYNH4mH",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "0yYByW986JjvcbeZ8tCCMixw.ifj2xWGSAifiy_4gU0-1782966886.2164059-1.0.1.1-T1Q6cewERsO3HfKfE2UxLesr5sD._js7fcKgEiULtYZkZRQ2b93_wFw8ONTMS5XHW7qWFHHuwLC7dBTGoKW9n8Cidzi_.FXn_3WQ5WiYhZ0jdzhOIXOaoaANjTO7xBUY",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.499Z",
+            "lastAccessed": "2026-07-02T04:34:46.499Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.239Z",
+            "lastAccessed": "2026-07-02T04:34:47.239Z"
+          },
+          {
+            "key": "sid",
+            "value": "o7bpgta6k9yg9v4bwqt47x4xvy6xi0xe",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.239Z",
+            "lastAccessed": "2026-07-02T04:34:47.239Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.239Z",
+            "lastAccessed": "2026-07-02T04:34:47.239Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.232Z",
+      "createdAt": "2026-07-02T04:34:46.232Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_w9X15EecV1",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "4gokleKiLFsw8lPG6gFxtVgpWdxVSn1rXlq3dluCDUY-1782966886.280546-1.0.1.1-1xfehvz2oeT9bbk66WkoKmP4COmT5q8BPw8wqiCbU6PFXIt1TNuhT9oxjz3IpjCSsiZJ0W8epvFgTM28vpi4XzNpBW8vnpDs47l8Xo5_3nvTsnoRCsdCL4Qj1ikBO._1",
+            "expires": "2026-07-02T05:04:47.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.218Z",
+            "lastAccessed": "2026-07-02T04:34:47.218Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.974Z",
+            "lastAccessed": "2026-07-02T04:34:47.974Z"
+          },
+          {
+            "key": "sid",
+            "value": "98lhy5p6swea1r56bt1ykaj00ggyqzuz",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.974Z",
+            "lastAccessed": "2026-07-02T04:34:47.974Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:47.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.974Z",
+            "lastAccessed": "2026-07-02T04:34:47.974Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.234Z",
+      "createdAt": "2026-07-02T04:34:46.234Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_FyO3Sz0fqO",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "PCwcGiRvGtzgTSLsbewMmhTs0_GNKDfvg41KATph1pM-1782966886.2261178-1.0.1.1-iyFJToYfk3JHEmXQL7U15EQHf9N311tvTxzBEQJLSMD2MM8xUUJmxYtyjcn6Fc8oV0GOFIbQYZp6ChmzM2Vx8fl6FrEUGwcupapju2xA7_aBf2HSQhol_lIoVtDQZzHA",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.478Z",
+            "lastAccessed": "2026-07-02T04:34:46.478Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.837Z",
+            "lastAccessed": "2026-07-02T04:34:46.837Z"
+          },
+          {
+            "key": "sid",
+            "value": "s4gzf51fjyn1gvs7lsn91rmrxaa99qvk",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.837Z",
+            "lastAccessed": "2026-07-02T04:34:46.837Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.837Z",
+            "lastAccessed": "2026-07-02T04:34:46.837Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.235Z",
+      "createdAt": "2026-07-02T04:34:46.235Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_9MmaiDrif5",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "0hcJ.HcRN7tEXBrdAu3mppALnfZh25_VY0iMzEf0Tes-1782966886.2281804-1.0.1.1-.l1pdsFyNViCQlyF0ogqJkFzcxXGVYYpOrG.96.loCwxJRnn.IEI7vX_y_OxxmSJKtJVwFmao8FLJ_6iEQxCJfJKDr1JvFuiTbvYw0KHY_yxUkSy4T31KvO5V0dZ7I23",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.475Z",
+            "lastAccessed": "2026-07-02T04:34:46.475Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.854Z",
+            "lastAccessed": "2026-07-02T04:34:46.854Z"
+          },
+          {
+            "key": "sid",
+            "value": "q4dequpwj9ulfptonen6z9xtj8ynphf1",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.854Z",
+            "lastAccessed": "2026-07-02T04:34:46.854Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.854Z",
+            "lastAccessed": "2026-07-02T04:34:46.854Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.243Z",
+      "createdAt": "2026-07-02T04:34:46.243Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_NXf3s2Xboh",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__cf_bm",
+            "value": "kG6rPmRZjR4ZIDM15og4HQO005hgdwu5oFGdTAzleeM-1782966886.2299004-1.0.1.1-svcm3UV1kJDcuOdodsXQYkC1L0zS2i4FUSGXAFqy4s9pBiLzQyA2ujOSHrWNkr97rCkgJ4stIo6w5VLSbUIf4zFEm78QqsvLpYDMr1UgzGRTlLs0mbskYu4O7DxkZd86",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.477Z",
+            "lastAccessed": "2026-07-02T04:34:46.477Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.821Z",
+            "lastAccessed": "2026-07-02T04:34:47.821Z"
+          },
+          {
+            "key": "sid",
+            "value": "mq6pqf6videpifwsr42nzbfcoaroot0y",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.821Z",
+            "lastAccessed": "2026-07-02T04:34:47.821Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.821Z",
+            "lastAccessed": "2026-07-02T04:34:47.821Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.245Z",
+      "createdAt": "2026-07-02T04:34:46.245Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_XDHmA6eRdH",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.967Z",
+            "lastAccessed": "2026-07-02T04:34:46.967Z"
+          },
+          {
+            "key": "sid",
+            "value": "w1bopqoxj110rsh5lo8jb12hd20zklvp",
+            "expires": "2027-07-02T04:34:46.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.967Z",
+            "lastAccessed": "2026-07-02T04:34:46.967Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:46.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:46.967Z",
+            "lastAccessed": "2026-07-02T04:34:46.967Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "WPrvlnUk_YXoERvVJU5iZ38dzPGKz1xTmJv7PDW8a0o-1782966886.2316418-1.0.1.1-kGKqIQc75_a2pZ93pRu6j5Cxh.plZEh3eblH9YdHyySbOzZznOYYmm6eruRkKPS7d6B45ea5CBXDFD4XY8rJJi4dEm_xSmiK3qL2V_aIPEI_K3Xdpn1uR0dVnEBP8Wqy",
+            "expires": "2026-07-02T05:04:46.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:46.967Z",
+            "lastAccessed": "2026-07-02T04:34:46.967Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.247Z",
+      "createdAt": "2026-07-02T04:34:46.247Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_d0d2Y6pDPb",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.395Z",
+            "lastAccessed": "2026-07-02T04:34:47.395Z"
+          },
+          {
+            "key": "sid",
+            "value": "lmrsldp83ztxcgz6vnepagwoxlk4wt7q",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.395Z",
+            "lastAccessed": "2026-07-02T04:34:47.395Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:47.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.395Z",
+            "lastAccessed": "2026-07-02T04:34:47.395Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "kcojbT9Azmv8_cnK.YihouhvGSsGwvAqn7.iPsRzonI-1782966886.8292322-1.0.1.1-meawLrUUcOWdS2YvWS96y9P.tM7URa5od0i70oIMGVH9b5xyBsCyDmcadqCW6rdovGwgkQr5fTcZVpKPjcWL6Cf80KHJkYgL9SSd6l3loe5qc3rOMQ.BP_WCkjTIeTQo",
+            "expires": "2026-07-02T05:04:47.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.395Z",
+            "lastAccessed": "2026-07-02T04:34:47.395Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.844Z",
+      "createdAt": "2026-07-02T04:34:46.844Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_LWT7ZsBdL7",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.212Z",
+            "lastAccessed": "2026-07-02T04:34:47.212Z"
+          },
+          {
+            "key": "sid",
+            "value": "7hz9k0nwy3z1k11ujy6zuz0bqpagr8um",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.212Z",
+            "lastAccessed": "2026-07-02T04:34:47.212Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:47.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.212Z",
+            "lastAccessed": "2026-07-02T04:34:47.212Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "1jfrIta3gwSzURr45hkEcM_zqk76qQ3Ew.5Z7344_lw-1782966886.8467352-1.0.1.1-bomMB1yeacdQOJd7A0xNmtP0TodAe2JV5dFyCkVLhkzkvQfeHVvgTAxURohyZdjh0q9vwh2zvlmT2SoNS4uLL2INO0v_dOZvge66u6WVdF5PKitDV4x9qYIRkYnfxhZu",
+            "expires": "2026-07-02T05:04:47.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.212Z",
+            "lastAccessed": "2026-07-02T04:34:47.212Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.862Z",
+      "createdAt": "2026-07-02T04:34:46.862Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_JI95Xid14l",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:48.080Z",
+            "lastAccessed": "2026-07-02T04:34:48.080Z"
+          },
+          {
+            "key": "sid",
+            "value": "5zaskk3zgv6wjwtpyi5ini1rlzxiuqfi",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:48.080Z",
+            "lastAccessed": "2026-07-02T04:34:48.080Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:47.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:48.080Z",
+            "lastAccessed": "2026-07-02T04:34:48.080Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "KLRkSScLKe3yTHSXmfgyzgm9jJGHDrLD7yef4j_L5oU-1782966886.8865554-1.0.1.1-CJp0OXbU.j1eAwCo16KZHAmwQPW6ctb4D61_XkPPA4Q3uoRUEsKnjhq90NrOB.kU8hckp7dejg7eJ.5zugb2sB42syy39KcPyuaI8NbqNcdtzQaLNxCXivlpbjvyDTQw",
+            "expires": "2026-07-02T05:04:47.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:48.080Z",
+            "lastAccessed": "2026-07-02T04:34:48.080Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.901Z",
+      "createdAt": "2026-07-02T04:34:46.901Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_IvSOCZPMQY",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.1",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__user_state",
+            "value": "eyJpc19hdXRoZW50aWNhdGVkIjogZmFsc2V9",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.354Z",
+            "lastAccessed": "2026-07-02T04:34:47.354Z"
+          },
+          {
+            "key": "sid",
+            "value": "d3eei23nlaxl80i7xa7413p2a1jrif7e",
+            "expires": "2027-07-02T04:34:47.000Z",
+            "maxAge": 31536000,
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.354Z",
+            "lastAccessed": "2026-07-02T04:34:47.354Z",
+            "sameSite": "lax"
+          },
+          {
+            "key": "__experiment_not_enrolled_nav-radar",
+            "value": "enabled",
+            "expires": "2026-07-02T04:37:47.000Z",
+            "maxAge": 180,
+            "domain": "appsumo.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2026-07-02T04:34:47.354Z",
+            "lastAccessed": "2026-07-02T04:34:47.354Z"
+          },
+          {
+            "key": "__cf_bm",
+            "value": "68AdG8r7H8PIvY1MLMGuJc1LAoSHzK4d5ZCyC._MNIQ-1782966886.966706-1.0.1.1-ic4sah_2eHkyskk.A.fnWQdqbDrJi.VVtaofznlaPblkBMJkfF469zy_wm5NQPqmRPmOOBNkoFWiSVuBFARzsRvIx7Imm.Plgs0TOov5lRJFQJxJ5P_RyqJ1bmElPpPL",
+            "expires": "2026-07-02T05:04:47.000Z",
+            "domain": "appsumo.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-07-02T04:34:47.354Z",
+            "lastAccessed": "2026-07-02T04:34:47.354Z",
+            "sameSite": "none"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-07-02T05:24:46.982Z",
+      "createdAt": "2026-07-02T04:34:46.982Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
