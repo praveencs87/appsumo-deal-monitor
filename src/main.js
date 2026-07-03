@@ -1,3 +1,4 @@
+import { armKillSwitch, disarmKillSwitch } from './utils/timeoutManager.js';
 import { Actor } from 'apify';
 import { CheerioCrawler, log } from 'crawlee';
 import { URL } from 'url';
@@ -121,7 +122,9 @@ try {
     const initialRequests = startUrls.map(req => ({ url: typeof req === 'string' ? req : req.url }));
     await crawler.addRequests(initialRequests);
     
+    armKillSwitch(crawler);
     await crawler.run();
+    disarmKillSwitch();
 
     log.info(`🎉 Successfully scraped ${extractedCount} deals!`);
 } catch (error) {

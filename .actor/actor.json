@@ -6,8 +6,8 @@
     "version": "1.0",
     "input": "./input_schema.json",
     "dockerfile": "./Dockerfile",
-    "minMemoryMbytes": 256,
-    "maxMemoryMbytes": 1024,
+    "minMemoryMbytes": 1024,
+    "maxMemoryMbytes": 4096,
     "pricingModel": "PAY_PER_EVENT",
     "pricingEvents": [
         {
@@ -19,6 +19,11 @@
             "eventName": "deal-extracted",
             "pricePerEvent": 0.001,
             "description": "Charged per deal successfully extracted ($1 per 1k)"
+        },
+        {
+            "eventName": "lead-extracted",
+            "pricePerEvent": 0.005,
+            "description": "Charged per lead extracted"
         }
     ],
     "isPublic": true,
@@ -32,6 +37,6 @@
     "defaultRunOptions": {
         "build": "latest",
         "timeoutSecs": 1800,
-        "memoryMbytes": 256
+        "memoryMbytes": 4096
     }
 }
